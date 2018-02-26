@@ -14,7 +14,7 @@ RUN apt-get update \
     tex-gyre \
     texlive \
     texlive-lang-spanish \
-    texlive-publishers
+    texlive-publishers \
     texlive-science \
     texlive-xetex \
     wget \
